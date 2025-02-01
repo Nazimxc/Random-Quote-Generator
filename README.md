@@ -24,7 +24,7 @@ This project is a simple quote generator that fetches random quotes from an API.
 - Implement a favorite quotes feature.
 
 ##License
-This project is licensed under the MIT License.
+- This project is licensed under the MIT License.
 
 ##Author
-Nazim Chunare - https://github.com/Nazimxc
+- Nazim Chunare - https://github.com/Nazimxc
